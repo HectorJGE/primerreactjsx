@@ -5,7 +5,7 @@ import Lista from './component/Lista'
 class App extends React.Component {    
     render() {        
       return (    
-              <div>
+              <div className='margin'>
                 <h1>Hola Dojo!</h1>
                 <h2>I need to learn</h2>
                 <Lista />
